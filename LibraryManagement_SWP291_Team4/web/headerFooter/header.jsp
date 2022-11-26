@@ -1,4 +1,5 @@
 
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <div class="container-fluid">
     <div class="row bg-secondary py-1 px-xl-5">
         <div class="col-lg-6 d-none d-lg-block">
@@ -38,13 +39,11 @@
             </a>
         </div>
         <div class="col-lg-4 col-6 text-left">
-            <form action="">
+            <form method="post" action="${pageContext.request.contextPath}/search-book">
                 <div class="input-group">
-                    <input type="text" class="form-control" placeholder="Search for books">
+                    <input type="text" name="search" class="form-control" placeholder="Search for books by title, description, publisher,...">
                     <div class="input-group-append">
-                        <span class="input-group-text bg-transparent text-primary">
-                            <i class="fa fa-search"></i>
-                        </span>
+                            <button class="fa fa-search" type="submit">Search</button>
                     </div>
                 </div>
             </form>
@@ -67,34 +66,15 @@
             </a>
             <nav class="collapse position-absolute navbar navbar-vertical navbar-light align-items-start p-0 bg-light" id="navbar-vertical" style="width: calc(100% - 30px); z-index: 999;">
                 <div class="navbar-nav w-100">
-                    <!--                        <div class="nav-item dropdown dropright">
-                                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Dresses <i class="fa fa-angle-right float-right mt-1"></i></a>
-                                                <div class="dropdown-menu position-absolute rounded-0 border-0 m-0">
-                                                    <a href="" class="dropdown-item">Men's Dresses</a>
-                                                    <a href="" class="dropdown-item">Women's Dresses</a>
-                                                    <a href="" class="dropdown-item">Baby's Dresses</a>
-                                                </div>
-                                            </div>-->
-                    <a href="" class="nav-item nav-link">Action</a>
-                    <a href="" class="nav-item nav-link">Comedy</a>
-                    <a href="" class="nav-item nav-link">Adventure</a>
-                    <a href="" class="nav-item nav-link">Crime</a>
-                    <a href="" class="nav-item nav-link">Sci-Fiction</a>
-                    <a href="" class="nav-item nav-link">Mystery</a>
-                    <a href="" class="nav-item nav-link">Religion</a>
-                    <a href="" class="nav-item nav-link">Documentary</a>
-                    <a href="" class="nav-item nav-link">Romance</a>
-                    <a href="" class="nav-item nav-link">Fantasy</a>
-                    <a href="" class="nav-item nav-link">War</a>
-                    <a href="" class="nav-item nav-link">Horror</a>
-                    <a href="" class="nav-item nav-link">Thriller</a>
-                    <a href="" class="nav-item nav-link">Drama</a>
+                    <c:forEach items='${requestScope.categorylist}' var='category'>
+                        <a href="" class="nav-item nav-link">${category.name}</a>
+                    </c:forEach>
                 </div>
             </nav>
         </div>
         <div class="col-lg-9">
             <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-3 py-lg-0 px-0">
-                <a href="" class="text-decoration-none d-block d-lg-none">
+                <a href="${pageContext.request.contextPath}/home" class="text-decoration-none d-block d-lg-none">
                     <span class="h1 text-uppercase text-dark bg-light px-2">Library</span>
                     <span class="h1 text-uppercase text-light bg-primary px-2 ml-n1">Management</span>
                 </a>
@@ -103,17 +83,21 @@
                 </button>
                 <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                     <div class="navbar-nav mr-auto py-0">
-                        <a href="home.jsp" class="nav-item nav-link">Home</a>
-                        <a href="books.jsp" class="nav-item nav-link">Books</a>
+                        <a href="${pageContext.request.contextPath}/home" class="nav-item nav-link">Home</a>
+                        <a href="${pageContext.request.contextPath}/account" class="nav-item nav-link">Account</a>
+                        <a href="book" class="nav-item nav-link">Books</a>
                         <!--<a href="detail.html" class="nav-item nav-link">Books Detail</a>-->
-                        <a href="authors.jsp" class="nav-item nav-link active">Authors</a>
-                        <a href="books.jsp" class="nav-item nav-link">My Appointment</a>
-                        <a href="books.jsp" class="nav-item nav-link">My Reservation</a>
-                        <a href="books.jsp" class="nav-item nav-link">Loan</a>
-                        <a href="books.jsp" class="nav-item nav-link">Blog</a>
-
-                        
-                        
+                        <a href="author" class="nav-item nav-link">Authors</a>
+                        <a href="myAppointment" class="nav-item nav-link">My Appointment</a>
+                        <a href="myReservation" class="nav-item nav-link">My Reservation</a>
+                        <c:if test="${sessionScope.user != null}">
+                            <a href="${pageContext.request.contextPath}/loan" class="nav-item nav-link">Loan history</a>
+                            <a href="${pageContext.request.contextPath}/borrowing" class="nav-item nav-link">Borrowing books</a>
+                             <a href="${pageContext.request.contextPath}/borrowing-list" class="nav-item nav-link">Borrowing list</a>
+                              <a href="${pageContext.request.contextPath}/returned-list" class="nav-item nav-link">Returned list</a>
+                               <a href="${pageContext.request.contextPath}/overdue-list" class="nav-item nav-link">Overdue list</a>
+                        </c:if>
+                        <a href="blog" class="nav-item nav-link">Blog</a>
 <!--                        <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages <i class="fa fa-angle-down mt-1"></i></a>
                             <div class="dropdown-menu bg-primary rounded-0 border-0 m-0">
@@ -124,11 +108,7 @@
                         <a href="contact.html" class="nav-item nav-link">Contact</a>-->
                     </div>
                     <div class="navbar-nav ml-auto py-0 d-none d-lg-block">
-                        <a href="" class="btn px-0">
-                            <i class="fas fa-heart text-primary"></i>
-                            <span class="badge text-secondary border border-secondary rounded-circle" style="padding-bottom: 2px;">0</span>
-                        </a>
-                        <a href="" class="btn px-0 ml-3">
+                        <a href="appointmentListCart" class="btn px-0">
                             <i class="fas fa-shopping-cart text-primary"></i>
                             <span class="badge text-secondary border border-secondary rounded-circle" style="padding-bottom: 2px;">0</span>
                         </a>

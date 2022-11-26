@@ -1,0 +1,19 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(Ñµ¬¤üÿÿÿÿ
+i
+java:S1192a"SDefine a constant instead of duplicating this literal "Not supported yet." 4 times.(®±Â™
+j
+java:S2095G"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ
+j
+java:S20951"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ
+j
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ
+v
+java:S1845s"TRename method "getById" to prevent any misunderstanding/clash with method "getByID".(¿˜ıÿÿÿÿÿ8Ç§à—Ë0
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+T	java:S106¹"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ

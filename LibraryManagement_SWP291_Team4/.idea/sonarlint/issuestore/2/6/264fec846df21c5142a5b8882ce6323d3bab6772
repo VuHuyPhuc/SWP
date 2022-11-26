@@ -1,0 +1,15 @@
+
+_
+java:S1192@"IDefine a constant instead of duplicating this literal "booklist" 6 times.(ë˜òã
+e
+java:S1192A"JDefine a constant instead of duplicating this literal "books.jsp" 6 times.(İÍ¡úÿÿÿÿ
+]
+java:S1192."GDefine a constant instead of duplicating this literal "index" 12 times.(Éé‘û
+d
+java:S1192)"GDefine a constant instead of duplicating this literal "search" 4 times.(¯ƒ«ˆ8Ğªà—Ë0
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(÷¤‹ú
+>	java:S108V")Either remove or fill this block of code.(”ı¾
+t
+java:S3776v"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ş³‚”ûÿÿÿÿ8§®à—Ë0
+F	java:S108®")Either remove or fill this block of code.(”ı¾8­®à—Ë0

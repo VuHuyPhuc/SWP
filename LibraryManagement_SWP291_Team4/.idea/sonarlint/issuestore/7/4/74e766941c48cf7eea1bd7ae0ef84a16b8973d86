@@ -1,0 +1,17 @@
+
+d
+java:S1192:"NDefine a constant instead of duplicating this literal "register.jsp" 10 times.(Ñæ¶
+H
+java:S1135""2Complete the task associated to this TODO comment.(¢§‰
+g
+java:S5998Z"LRefactor this repetition that can lead to a stack overflow for large inputs.(ûÔíúûÿÿÿÿ
+W
+java:S6353Z"<Use concise character class syntax '\\d' instead of '[0-9]'.(ûÔíúûÿÿÿÿ
+W
+java:S6353Z"<Use concise character class syntax '\\d' instead of '[0-9]'.(ûÔíúûÿÿÿÿ
+W
+java:S6353Z"<Use concise character class syntax '\\d' instead of '[0-9]'.(ûÔíúûÿÿÿÿ
+W
+java:S6353Z"<Use concise character class syntax '\\d' instead of '[0-9]'.(ûÔíúûÿÿÿÿ
+o
+java:S5843Z"TSimplify this regular expression to reduce its complexity from 24 to the 20 allowed.(ûÔíúûÿÿÿÿ

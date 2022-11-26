@@ -1,0 +1,9 @@
+
+Z	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(•ÚÃØúÿÿÿÿ
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+dphp:S103"KSplit this 138 characters long line (which is greater than 120 authorized).(‰¶Ë­üÿÿÿÿ
+_php:S103"KSplit this 180 characters long line (which is greater than 120 authorized).(ÕÛãÌ
+^	php:S1808"DPut one space between this "if" keyword and the opening parenthesis.(‰¶Ë­üÿÿÿÿ
+^	php:S1808"DPut one space between this "if" keyword and the opening parenthesis.(ÓÇµøÿÿÿÿ
+7	php:S1780"Remove this closing tag "?>".(Ö‘äÏúÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(ÓÇµøÿÿÿÿ

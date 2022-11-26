@@ -1,0 +1,152 @@
+{
+  "version": 2,
+  "warnings": [
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "C:\\Users\\dantri_89\\Desktop\\SWP391\\libraryManagement\\LibraryManagement_SWP291_Team4\\src\\java\\dao\\BookDAO.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V6008",
+      "cwe": 690,
+      "sastId": "CERT-EXP01-J",
+      "level": 2,
+      "positions": [
+        {
+          "file": "C:\\Users\\dantri_89\\Desktop\\SWP391\\libraryManagement\\LibraryManagement_SWP291_Team4\\src\\java\\controller\\ChangePasswordController.java",
+          "line": 184,
+          "endLine": 184,
+          "column": 59,
+          "endColumn": 59,
+          "navigation": {
+            "previousLine": 0,
+            "currentLine": -1423741210,
+            "nextLine": 381438837,
+            "columns": 88
+          }
+        },
+        {
+          "file": "C:\\Users\\dantri_89\\Desktop\\SWP391\\libraryManagement\\LibraryManagement_SWP291_Team4\\src\\java\\controller\\ChangePasswordController.java",
+          "line": 179,
+          "endLine": 179,
+          "column": 17,
+          "endColumn": 80,
+          "navigation": {
+            "previousLine": 125,
+            "currentLine": 1090961564,
+            "nextLine": 1142387917,
+            "columns": 83
+          }
+        }
+      ],
+      "message": "Potential null dereference of \u0027u\u0027.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "C:\\Users\\dantri_89\\Desktop\\SWP391\\libraryManagement\\LibraryManagement_SWP291_Team4\\src\\java\\controller\\MyReservationDetailController.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "C:\\Users\\dantri_89\\Desktop\\SWP391\\libraryManagement\\LibraryManagement_SWP291_Team4\\src\\java\\dao\\ReservationDAO.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "C:\\Users\\dantri_89\\Desktop\\SWP391\\libraryManagement\\LibraryManagement_SWP291_Team4\\src\\java\\Google\\Constants.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V6084",
+      "cwe": 0,
+      "level": 2,
+      "positions": [
+        {
+          "file": "C:\\Users\\dantri_89\\Desktop\\SWP391\\libraryManagement\\LibraryManagement_SWP291_Team4\\src\\java\\dao\\impl\\UserDAOImpl.java",
+          "line": 36,
+          "endLine": 36,
+          "column": 9,
+          "endColumn": 24,
+          "navigation": {
+            "previousLine": 125,
+            "currentLine": 1409815,
+            "nextLine": 125,
+            "columns": 24
+          }
+        },
+        {
+          "file": "C:\\Users\\dantri_89\\Desktop\\SWP391\\libraryManagement\\LibraryManagement_SWP291_Team4\\src\\java\\dao\\impl\\UserDAOImpl.java",
+          "line": 26,
+          "endLine": 26,
+          "column": 25,
+          "endColumn": 51,
+          "navigation": {
+            "previousLine": -1132645455,
+            "currentLine": -1449416480,
+            "nextLine": -516717108,
+            "columns": 51
+          }
+        }
+      ],
+      "message": "Collection \u0027userlist\u0027 is always returned empty. Consider checking for elements that were forgotten to be added.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+
+i
+java:S1192>"SDefine a constant instead of duplicating this literal "Not supported yet." 3 times.(®±Â™
+j
+java:S20950"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ8¼à—Ë0
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ö¬
+E	java:S1087")Either remove or fill this block of code.(É®£8Äà—Ë0
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(ö¬

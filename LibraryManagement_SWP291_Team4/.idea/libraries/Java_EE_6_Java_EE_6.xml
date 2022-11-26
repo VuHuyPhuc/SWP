@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Java EE 6-Java EE 6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.transaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.resource.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

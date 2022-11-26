@@ -1,0 +1,13 @@
+
+pjavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 52 to the 15 allowed.(‰Û™
+Ejavascript:S3504")Unexpected var, use let or const instead.(¡áÛö
+Ejavascript:S3504'")Unexpected var, use let or const instead.(øèâä
+Tjavascript:S1121,"3Extract the assignment of "x" from this expression.(Ñš®±ıÿÿÿÿ
+Ojavascript:S1121."3Extract the assignment of "x" from this expression.(•ºË¿
+Ojavascript:S11210"3Extract the assignment of "x" from this expression.(Ü „ä
+ejavascript:S3358v"DExtract this nested ternary operation into an independent statement.(˜¸ÿàøÿÿÿÿ
+ejavascript:S3358v"DExtract this nested ternary operation into an independent statement.(˜¸ÿàøÿÿÿÿ
+ajavascript:S3358†"DExtract this nested ternary operation into an independent statement.(¿‰Å§
+ajavascript:S3358Š"DExtract this nested ternary operation into an independent statement.(¿‰Å§
+fjavascript:S3358"DExtract this nested ternary operation into an independent statement.(˜¸ÿàøÿÿÿÿ
+fjavascript:S3358"DExtract this nested ternary operation into an independent statement.(˜¸ÿàøÿÿÿÿ

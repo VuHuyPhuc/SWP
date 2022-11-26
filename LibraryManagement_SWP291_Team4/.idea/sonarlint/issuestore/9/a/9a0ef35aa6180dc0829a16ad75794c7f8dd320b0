@@ -1,0 +1,14 @@
+
+t
+java:S11929"RDefine a constant instead of duplicating this literal "myAppointment.jsp" 3 times.(ç¼³ÿÿÿÿÿ8Ò‰à—Ë0
+d
+java:S1192%"GDefine a constant instead of duplicating this literal "/login" 6 times.(¼÷¯‘8Ô‰à—Ë0
+j
+java:S1192."HDefine a constant instead of duplicating this literal "pending" 3 times.(Ş¥¹íÿÿÿÿÿ8Õ‰à—Ë0
+k
+java:S11920"NDefine a constant instead of duplicating this literal "lsAppointment" 3 times.(º®Ó‚8×‰à—Ë0
+o
+java:S11927"MDefine a constant instead of duplicating this literal "categorylist" 3 times.(¤äİ¢ÿÿÿÿÿ8Ø‰à—Ë0
+d
+java:S2259b"BA "NullPointerException" could be thrown; "sort" is nullable here.(ÕûÕ†øÿÿÿÿ8å‹à—Ë0
+^	java:S125§"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8–Œà—Ë0

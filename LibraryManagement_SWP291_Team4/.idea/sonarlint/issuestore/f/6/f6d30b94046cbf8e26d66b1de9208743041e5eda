@@ -1,0 +1,38 @@
+
+h
+java:S1192{"FDefine a constant instead of duplicating this literal "admin" 3 times.(“†ÆÄûÿÿÿÿ8‡¨à—Ë0
+l
+java:S1192~"QDefine a constant instead of duplicating this literal "unauthorized.jsp" 7 times.(°Ï·Úúÿÿÿÿ
+F
+java:S1066½"/Merge this if statement with the enclosing one.(ˆø¶ª
+g
+java:S2095×"IUse try-with-resources or close this "PrintStream" in a "finally" clause.(Òğ¸ï8 ï“˜Ë0
+g
+java:S2095Ø"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(³ç¶8 ï“˜Ë0
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆ€„Šûÿÿÿÿ8£ ìö¾0
+˜
+java:S1186´"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚“¶î
+
+java:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­„’·8¤ ìö¾0
+‰
+java:S1130)"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(‰¼÷É8© ìö¾0
+Y
+java:S1172("<Remove these unused method parameters "request", "response".(Ç¯íŞ8ª ìö¾0
+]	java:S1253"<This block of commented-out lines of code should be removed.(ÉÃÑşÿÿÿÿ8« ìö¾0
+‰
+java:S1130E"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(‰¼÷É8”ªà—Ë0
+Y
+java:S1172D"<Remove these unused method parameters "request", "response".(åøÄ—8­ ìö¾0
+]	java:S125O"<This block of commented-out lines of code should be removed.(¶ë¯Îùÿÿÿÿ8® ìö¾0
+]	java:S125X"<This block of commented-out lines of code should be removed.(Ä›ø•øÿÿÿÿ8® ìö¾0
+o
+java:S3776f"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¾ä¾ä8¯ ìö¾0
+D	java:S108â")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ
+D	java:S108ê")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ
+D	java:S108ø")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ
+T
+java:S1144("7Remove this unused private "doBeforeProcessing" method.(Ç¯íŞ8Ê ìö¾0
+S
+java:S1144D"6Remove this unused private "doAfterProcessing" method.(åøÄ—8Ê ìö¾0
+T
+java:S1144Ñ"8Remove this unused private "sendProcessingError" method.(¼­–Èûÿÿÿÿ

@@ -1,0 +1,40 @@
+
+w
+java:S1104"\Make GOOGLE_CLIENT_ID a static final constant or non-public and provide accessors if needed.(ØúÂÆÿÿÿÿÿ
+u
+java:S1104"`Make GOOGLE_CLIENT_SECRET a static final constant or non-public and provide accessors if needed.(ƒ¢Û
+z
+java:S1104"_Make GOOGLE_REDIRECT_URI a static final constant or non-public and provide accessors if needed.(üñÅÚùÿÿÿÿ
+|
+java:S1104"aMake GOOGLE_LINK_GET_TOKEN a static final constant or non-public and provide accessors if needed.(»‘ÄÀıÿÿÿÿ
+€
+java:S1104"eMake GOOGLE_LINK_GET_USER_INFO a static final constant or non-public and provide accessors if needed.(Ò±–øÿÿÿÿ
+x
+java:S1104"]Make GOOGLE_GRANT_TYPE a static final constant or non-public and provide accessors if needed.(ğÑ¾°øÿÿÿÿ
+Q
+java:S1444"6Make this "public static GOOGLE_CLIENT_ID" field final(ØúÂÆÿÿÿÿÿ
+O
+java:S1444":Make this "public static GOOGLE_CLIENT_SECRET" field final(ƒ¢Û
+T
+java:S1444"9Make this "public static GOOGLE_REDIRECT_URI" field final(üñÅÚùÿÿÿÿ
+V
+java:S1444";Make this "public static GOOGLE_LINK_GET_TOKEN" field final(»‘ÄÀıÿÿÿÿ
+Z
+java:S1444"?Make this "public static GOOGLE_LINK_GET_USER_INFO" field final(Ò±–øÿÿÿÿ
+R
+java:S1444"7Make this "public static GOOGLE_GRANT_TYPE" field final(ğÑ¾°øÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸­Æ
+v
+java:S3008"[Rename this field "GOOGLE_CLIENT_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØúÂÆÿÿÿÿÿ
+t
+java:S3008"_Rename this field "GOOGLE_CLIENT_SECRET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¢Û
+y
+java:S3008"^Rename this field "GOOGLE_REDIRECT_URI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üñÅÚùÿÿÿÿ
+{
+java:S3008"`Rename this field "GOOGLE_LINK_GET_TOKEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»‘ÄÀıÿÿÿÿ
+
+java:S3008"dRename this field "GOOGLE_LINK_GET_USER_INFO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò±–øÿÿÿÿ
+w
+java:S3008"\Rename this field "GOOGLE_GRANT_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÑ¾°øÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(“³±ûÿÿÿÿ

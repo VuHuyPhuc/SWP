@@ -1,0 +1,23 @@
+
+h
+java:S1192 "FDefine a constant instead of duplicating this literal "image" 3 times.(â€€¼ùÿÿÿÿ8‰˜ÿ–Ë0
+i
+java:S1192`"SDefine a constant instead of duplicating this literal "Not supported yet." 4 times.(®±Â™
+l
+java:S1192 "JDefine a constant instead of duplicating this literal "author_id" 3 times.(â€€¼ùÿÿÿÿ8Š˜ÿ–Ë0
+r
+java:S1192 "PDefine a constant instead of duplicating this literal "brief_infomaton" 3 times.(â€€¼ùÿÿÿÿ8ˆ˜ÿ–Ë0
+m
+java:S1192 "KDefine a constant instead of duplicating this literal "infomation" 3 times.(â€€¼ùÿÿÿÿ8‰˜ÿ–Ë0
+k
+java:S1192 "IDefine a constant instead of duplicating this literal "fullname" 3 times.(â€€¼ùÿÿÿÿ8‰˜ÿ–Ë0
+v
+java:S1488:"YImmediately return this expression instead of assigning it to the temporary variable "b".(»¯©®8‹˜ÿ–Ë0
+o
+java:S1488R"YImmediately return this expression instead of assigning it to the temporary variable "b".(‘ïÈ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+U	java:S106t"9Replace this use of System.out or System.err by a logger.(ëÁ¸·8â˜ÿ–Ë0
+F	java:S108ˆ")Either remove or fill this block of code.(”ı¾8é˜ÿ–Ë0
+F	java:S108£")Either remove or fill this block of code.(”ı¾8î˜ÿ–Ë0

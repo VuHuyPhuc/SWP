@@ -1,0 +1,22 @@
+
+^
+java:S1192*"HDefine a constant instead of duplicating this literal "user_id" 7 times.(Ÿóºñ
+b
+java:S11922"GDefine a constant instead of duplicating this literal "status" 7 times.(è¥ÚŸşÿÿÿÿ
+e
+java:S11920"ODefine a constant instead of duplicating this literal "loan_date_from" 7 times.(“öå¶
+^
+java:S1192,"HDefine a constant instead of duplicating this literal "loan_id" 7 times.(Õ°Ò
+l
+java:S1192/"QDefine a constant instead of duplicating this literal "loan_date_actual" 7 times.(‰Æ¿¸úÿÿÿÿ
+c
+java:S1192)"HDefine a constant instead of duplicating this literal "book_id" 7 times.(Ä¼¶áşÿÿÿÿ
+i
+java:S11921"NDefine a constant instead of duplicating this literal "loan_date_tor" 7 times.(èËŸÂûÿÿÿÿ
+ƒ
+java:S4144ÿ"`Update this method so that its implementation is not identical to "countReturnLoan" on line 207.(¦•Èıÿÿÿÿ8Òà—Ë0
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+X
+java:S2479½":Remove the non-escaped \u0009 character from this literal.(§¶º8éà—Ë0

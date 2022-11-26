@@ -1,0 +1,20 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃıË›øÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃıË›øÿÿÿÿ
+m	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÓ‹8©¡î–Ë0
+m	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÓ‹8©¡î–Ë0
+m	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÓ‹8ª¡î–Ë0
+k	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÄÑüşÿÿÿÿ
+r	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú‹½çùÿÿÿÿ8ª¡î–Ë0
+k	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÅ®Šüÿÿÿÿ
+n	java:S116"YRename this field "appointment_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¨Ä
+l	java:S116"RRename this field "user_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÖïéÿÿÿÿÿ
+t	java:S116"XRename this field "user_fullname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÎÿÍ8Ç¡î–Ë0
+v
+java:S1210Z"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ÏšŞº8È¡î–Ë0
+c	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìëµ“
+h	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÄÑüşÿÿÿÿ
+c	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨şšş
+j	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÔş÷8Ÿ¢î–Ë0
+o	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú‹½çùÿÿÿÿ8¡¢î–Ë0
+h	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÅ®Šüÿÿÿÿ

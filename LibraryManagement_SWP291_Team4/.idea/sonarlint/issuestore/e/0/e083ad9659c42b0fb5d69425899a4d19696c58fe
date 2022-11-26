@@ -1,0 +1,47 @@
+
+k
+java:S1192F"NDefine a constant instead of duplicating this literal "category_name" 3 times.(¾·¦İ8‡™à—Ë0
+•
+java:S1192'"xDefine a constant instead of duplicating this literal " JOIN [Category] AS c ON c.category_id = b.category_id " 3 times.(°ÌÀ8‡™à—Ë0
+c
+java:S1192>"FDefine a constant instead of duplicating this literal "image" 3 times.(¼¨›¹8ˆ™à—Ë0
+t
+java:S1192%"RDefine a constant instead of duplicating this literal " c.category_name " 3 times.(øÜ„Üıÿÿÿÿ8ˆ™à—Ë0
+q
+java:S11924"ODefine a constant instead of duplicating this literal "reservation_id" 3 times.(’µ’àûÿÿÿÿ8ˆ™à—Ë0
+o
+java:S1192A"MDefine a constant instead of duplicating this literal "Introduction" 3 times.(ŞĞ‹Çùÿÿÿÿ8‰™à—Ë0
+j
+java:S11925"HDefine a constant instead of duplicating this literal "user_id" 4 times.(Õğ¹ßıÿÿÿÿ8‰™à—Ë0
+l
+java:S1192;"JDefine a constant instead of duplicating this literal "publisher" 3 times.(ô«¹ºùÿÿÿÿ8‰™à—Ë0
+i
+java:S1192@"GDefine a constant instead of duplicating this literal "status" 5 times.(ëÆğüÿÿÿÿ8‰™à—Ë0
+h
+java:S1192B"LDefine a constant instead of duplicating this literal "Description" 3 times.(–¼.8Š™à—Ë0
+h
+java:S1192:"FDefine a constant instead of duplicating this literal "title" 3 times.(åàØıÿÿÿÿ8Š™à—Ë0
+i
+java:S1192E"LDefine a constant instead of duplicating this literal "category_id" 3 times.(¹úñ8Š™à—Ë0
+s
+java:S1192<"QDefine a constant instead of duplicating this literal "publication_date" 3 times.(æ¸úìøÿÿÿÿ8‹™à—Ë0
+e
+java:S1192="IDefine a constant instead of duplicating this literal "quantity" 3 times.(şéëZ8‹™à—Ë0
+c
+java:S1192$"GDefine a constant instead of duplicating this literal " b.*, " 3 times.(¼í‹Y8‹™à—Ë0
+j
+java:S11929"HDefine a constant instead of duplicating this literal "book_id" 4 times.(İÔØ­úÿÿÿÿ8‹™à—Ë0
+k	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’µ’àûÿÿÿÿ
+k	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õğ¹ßıÿÿÿÿ
+r	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õğ¹ßıÿÿÿÿ8ˆ’íö¾0
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’µ’àûÿÿÿÿ8ˆ’íö¾0
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õğ¹ßıÿÿÿÿ8™à—Ë0
+s	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—äáüÿÿÿÿ8™à—Ë0
+s	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’µ’àûÿÿÿÿ8™à—Ë0
+s	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õğ¹ßıÿÿÿÿ8™à—Ë0
+r
+java:S2095‰"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ8û’íö¾0
+m
+java:S2095Œ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(…£ù‰8º›à—Ë0
+j
+java:S2095-"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(À×‹®ûÿÿÿÿ

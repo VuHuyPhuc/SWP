@@ -1,0 +1,28 @@
+
+a
+java:S1192T"FDefine a constant instead of duplicating this literal "</h1>" 6 times.(Îˆ³‹ùÿÿÿÿ
+c
+java:S1192­"GDefine a constant instead of duplicating this literal "status" 3 times.(æÛ¡Œþÿÿÿÿ
+v
+java:S1192W"[Define a constant instead of duplicating this literal "<h1 style=\"color: red;\">" 3 times.(Á§æ÷ÿÿÿÿÿ
+”
+java:S1192U"yDefine a constant instead of duplicating this literal "<a href=\"reservationList\">Back to reservation list</a>" 6 times.( ‚ã°ùÿÿÿÿ
+w
+java:S1192T"\Define a constant instead of duplicating this literal "<h1 style=\"color: blue;\">" 3 times.(Îˆ³‹ùÿÿÿÿ
+_
+java:S1226ž"HIntroduce a new variable instead of reusing the parameter "reservation".(’í÷Ÿ
+d
+java:S1226²"HIntroduce a new variable instead of reusing the parameter "reservation".(‡àÐ§øÿÿÿÿ
+d
+java:S1226Æ"HIntroduce a new variable instead of reusing the parameter "reservation".(þÓ°üûÿÿÿÿ
+d	java:S100š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öãóæ
+F
+java:S1172š"/Remove this unused method parameter "response".(Öãóæ
+d	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûí˜ð
+F
+java:S1172¨"/Remove this unused method parameter "response".(ûí˜ð
+i	java:S100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œì¦Ìýÿÿÿÿ
+K
+java:S1172»"/Remove this unused method parameter "response".(œì¦Ìýÿÿÿÿ
+F
+java:S1172Ï"/Remove this unused method parameter "response".(ˆý¨ð

@@ -1,0 +1,73 @@
+2022-10-18 17:50:52 [INFO ] c.p.r.NativeLoader:64 - ********************************
+2022-10-18 17:50:52 [INFO ] c.p.r.NativeLoader:65 - Native library search paths: 
+2022-10-18 17:50:52 [INFO ] c.p.r.NativeLoader:992 - C:\Users\dantri_89\AppData\Roaming\PVS-Studio-Java\7.21.64848
+2022-10-18 17:50:52 [INFO ] c.p.r.NativeLoader:992 - .
+2022-10-18 17:50:52 [INFO ] c.p.r.NativeLoader:992 - C:\Users\dantri_89\AppData\Roaming\PVS-Studio-Java\7.21.64848\..
+2022-10-18 17:50:52 [INFO ] c.p.r.NativeLoader:992 - C:\Users\dantri_89\AppData\Roaming\PVS-Studio-Java\7.21.64848\..\..
+2022-10-18 17:50:52 [INFO ] c.p.r.NativeLoader:992 - C:\Users\dantri_89\AppData\Roaming\PVS-Studio-Java\7.21.64848\..\..\build
+2022-10-18 17:50:52 [INFO ] c.p.r.NativeLoader:67 - Additional path: native/win
+2022-10-18 17:50:52 [INFO ] c.p.r.NativeLoader:76 - Native library found: C:\Users\dantri_89\AppData\Roaming\PVS-Studio-Java\7.21.64848\native\win\analysis-core.dll
+2022-10-18 17:50:52 [INFO ] c.p.r.NativeLoader:77 - ********************************
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:49 - Module: LibraryManagement_SWP291_Team4
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:50 - Sources:
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dantri_89/Desktop/SWP391/libraryManagement/LibraryManagement_SWP291_Team4/src/java
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:52 - Classpath:
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk1.8.0_321/jre/lib/charsets.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk1.8.0_321/jre/lib/ext/localedata.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk1.8.0_321/jre/lib/ext/access-bridge-64.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dantri_89/Desktop/SWP391/libraryManagement/LibraryManagement_SWP291_Team4/build/web/WEB-INF/lib/sqljdbc42.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dantri_89/Desktop/SWP391/libraryManagement/LibraryManagement_SWP291_Team4/library/gson-2.8.2.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk1.8.0_321/jre/lib/management-agent.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dantri_89/Desktop/SWP391/libraryManagement/LibraryManagement_SWP291_Team4/library/commons-logging-1.2.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk1.8.0_321/jre/lib/javaws.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dantri_89/Desktop/SWP391/libraryManagement/LibraryManagement_SWP291_Team4/library/jakarta.servlet.jsp.jstl-2.0.0.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dantri_89/Desktop/SWP391/libraryManagement/LibraryManagement_SWP291_Team4/library/sqljdbc42.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dantri_89/Desktop/SWP391/libraryManagement/LibraryManagement_SWP291_Team4/build/web/WEB-INF/lib/jakarta.servlet.jsp.jstl-2.0.0.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk1.8.0_321/jre/lib/ext/sunjce_provider.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk1.8.0_321/jre/lib/ext/dnsns.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk1.8.0_321/jre/lib/ext/sunpkcs11.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dantri_89/Desktop/SWP391/libraryManagement/LibraryManagement_SWP291_Team4/build/web/WEB-INF/lib/commons-logging-1.2.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk1.8.0_321/jre/lib/ext/jfxrt.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dantri_89/Desktop/SWP391/libraryManagement/LibraryManagement_SWP291_Team4/build/web/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-2.0.0.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk1.8.0_321/jre/lib/ext/cldrdata.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk1.8.0_321/jre/lib/jfxswt.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dantri_89/Desktop/SWP391/libraryManagement/LibraryManagement_SWP291_Team4/library/fluent-hc-4.5.5.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk1.8.0_321/jre/lib/ext/nashorn.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dantri_89/Desktop/SWP391/libraryManagement/LibraryManagement_SWP291_Team4/library/jakarta.servlet.jsp.jstl-api-2.0.0.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk1.8.0_321/jre/lib/plugin.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dantri_89/Desktop/SWP391/libraryManagement/LibraryManagement_SWP291_Team4/build/web/WEB-INF/lib/gson-2.8.2.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dantri_89/Desktop/SWP391/libraryManagement/LibraryManagement_SWP291_Team4/library/httpclient-4.5.5.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk1.8.0_321/jre/lib/ext/jaccess.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dantri_89/Desktop/SWP391/libraryManagement/LibraryManagement_SWP291_Team4/build/web/WEB-INF/lib/httpcore-4.4.9.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk1.8.0_321/jre/lib/jfr.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk1.8.0_321/jre/lib/ext/sunec.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk1.8.0_321/jre/lib/jce.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk1.8.0_321/jre/lib/ext/sunmscapi.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk1.8.0_321/jre/lib/rt.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dantri_89/Desktop/SWP391/libraryManagement/LibraryManagement_SWP291_Team4/library/httpcore-4.4.9.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dantri_89/Desktop/SWP391/libraryManagement/LibraryManagement_SWP291_Team4/build/web/WEB-INF/lib/fluent-hc-4.5.5.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk1.8.0_321/jre/lib/jsse.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk1.8.0_321/jre/lib/resources.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk1.8.0_321/jre/lib/deploy.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Program Files/Java/jdk1.8.0_321/jre/lib/ext/zipfs.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/dantri_89/Desktop/SWP391/libraryManagement/LibraryManagement_SWP291_Team4/build/web/WEB-INF/lib/httpclient-4.5.5.jar
+2022-10-18 17:50:54 [INFO ] c.p.p.IncrementalLauncher:154 - Load model from cache...
+2022-10-18 17:50:55 [INFO ] c.p.p.IncrementalLauncher:168 - Build model incrementally...
+2022-10-18 17:50:55 [INFO ] c.p.p.IncrementalLauncher:169 - Current time: 1666090255240
+2022-10-18 17:50:55 [INFO ] c.p.p.IncrementalLauncher:170 - Last build time: 1666071525753
+2022-10-18 17:50:55 [INFO ] c.p.p.IncrementalLauncher:171 - Keyset size: 50
+2022-10-18 17:50:55 [INFO ] c.p.p.IncrementalLauncher:172 - Input sources size: 50
+2022-10-18 17:50:55 [INFO ] c.p.p.IncrementalLauncher:178 - Removed sources size: 0
+2022-10-18 17:50:55 [INFO ] c.p.p.IncrementalLauncher:179 - Added sources size: 0
+2022-10-18 17:50:55 [INFO ] c.p.p.IncrementalLauncher:180 - Common sources size: 50
+2022-10-18 17:50:55 [INFO ] c.p.p.IncrementalLauncher:191 - Incremental sources size: 0
+2022-10-18 17:50:55 [INFO ] c.p.p.IncrementalLauncher:194 - Old types size: 50
+2022-10-18 17:50:55 [INFO ] c.p.p.IncrementalLauncher:205 - Changed types size: 0
+2022-10-18 17:50:55 [INFO ] c.p.p.IncrementalLauncher:207 - Enter types loop
+2022-10-18 17:50:55 [INFO ] c.p.p.IncrementalLauncher:229 - Exit types loop
+2022-10-18 17:50:55 [INFO ] c.p.p.IncrementalLauncher:241 - Old packages size: 7
+2022-10-18 17:50:55 [INFO ] c.p.p.IncrementalLauncher:250 - Data processed
+2022-10-18 17:50:55 [INFO ] c.p.p.IncrementalLauncher:256 - Added: 0
+2022-10-18 17:50:55 [INFO ] c.p.p.IncrementalLauncher:257 - Removed: 0
+2022-10-18 17:50:55 [INFO ] c.p.p.IncrementalLauncher:258 - Modified : 0
+2022-10-18 17:50:55 [INFO ] c.p.p.Module:383 - Model build success.

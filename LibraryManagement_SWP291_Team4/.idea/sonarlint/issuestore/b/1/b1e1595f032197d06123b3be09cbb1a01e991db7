@@ -1,0 +1,15 @@
+
+d
+java:S11929"GDefine a constant instead of duplicating this literal "/login" 6 times.(¼÷¯‘8’à—Ë0
+j
+java:S1192B"HDefine a constant instead of duplicating this literal "pending" 4 times.(‡óµÄøÿÿÿÿ8’à—Ë0
+o
+java:S1192L"MDefine a constant instead of duplicating this literal "categorylist" 3 times.(¤äİ¢ÿÿÿÿÿ8’à—Ë0
+k
+java:S1192D"NDefine a constant instead of duplicating this literal "lsReservation" 3 times.(¥ëñ 8‘’à—Ë0
+o
+java:S1192N"RDefine a constant instead of duplicating this literal "myReservation.jsp" 3 times.(§Õì‰8’’à—Ë0
+e
+java:S2259"BA "NullPointerException" could be thrown; "sort" is nullable here.(ÕûÕ†øÿÿÿÿ8ë–à—Ë0
+o
+java:S3776["RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(÷¤‹ú8õ–à—Ë0

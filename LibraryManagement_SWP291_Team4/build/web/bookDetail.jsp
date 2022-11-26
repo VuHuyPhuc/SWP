@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <html lang="en">
 
     <head>
@@ -31,6 +32,7 @@
         <header>
             <%@include file="headerFooter/header.jsp" %>
         </header>
+        <c:set value="${requestScope.book}" var="c"></c:set>
         <!-- Breadcrumb Start -->
         <div class="container-fluid">
             <div class="row px-xl-5">
@@ -53,7 +55,7 @@
                     <div id="product-carousel" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner bg-light">
                             <div class="carousel-item active">
-                                <img class="w-100 h-100" src="img/books/DanceWithTheDevil.PNG" alt="Image">
+                                <img class="w-100 h-100" src="${c.image}" alt="Image">
                             </div>
 <!--                            <div class="carousel-item">
                                 <img class="w-100 h-100" src="img/product-2.jpg" alt="Image">
@@ -73,10 +75,10 @@
                         </a>-->
                     </div>
                 </div>
-
+                
                 <div class="col-lg-7 h-auto mb-30">
                     <div class="h-100 bg-light p-30">
-                        <h3>Dance with the Devil</h3>
+                        <h3>${c.title}</h3>
                         <div class="d-flex mb-3">
                             <div class="text-primary mr-2">
                                 <small class="fas fa-star"></small>
@@ -88,8 +90,10 @@
                             <small class="pt-1">(99 Reviews)</small>
                         </div>
                         <!--<h3 class="font-weight-semi-bold mb-4">$150.00</h3>-->
-                        <p class="mb-4">USA Today and New York Times bestselling author Kit Rocha return to their explosive post-apocalyptic action/romance series, The Mercenary Librarians, with the next thrilling installment, Dance with the Devil.</p>
-                        
+                        <p class="mb-4">${c.introduction}</p>
+                                                Publisher:<p class="mb-4">${c.publisher}</p>
+                        Publication Date:<p class="mb-4">${c.publication_year}</p>
+
                         <div class="d-flex align-items-center mb-4 pt-2">
                             <strong class="text-dark mr-3">Quantity:</strong>
                             <div class="input-group quantity mr-3" style="width: 130px;">
@@ -114,11 +118,11 @@
                         <div class="tab-content">
                             <div class="tab-pane fade show active" id="tab-pane-1">
                                 <h4 class="mb-3">Book Description</h4>
-                                <p>POWER IS NEVER GIVEN, ONLY TAKEN</p>
+<!--                                <p>POWER IS NEVER GIVEN, ONLY TAKEN</p>
                                 <p>Tobias Richter, the fearsome VP of Security of the TechCorps is dead. The puppetmaster is gone and the organization is scrambling to maintain control by ruthlessly limiting Atlanta's access to resources, hoping to quell rebellion. Our band of mercenary librarians have decided that the time for revolution has come.</p>
                                 <p>Maya uses her wealth of secrets to weaken the TechCorps from within. Dani strikes from the shadows, picking off the chain of command one ambush at a time. And Nina is organizing their community?not just to survive, but to fight back. When Maya needs to make contact with a sympathetic insider, Dani and Rafe are the only ones with the skill-set and experience to infiltrate the highest levels of the TechCorps. They'll go deep undercover in the decadent, luxury-soaked penthouses on the Hill.</p>
                                 <p>Bringing Dani face-to-face with the man who turned her into a killer. And forcing Rafe to decide how far he'll go to protect both of his families?the one he was born to, and the one he made for himself.</p>
-                                <p>Victory will break the back of Power. Failure will destroy Atlanta.</p>
+                               --> <p>${c.description}</p>
                             </div>
                             <div class="tab-pane fade" id="tab-pane-2">
                                 <h4 class="mb-3">Additional Information</h4>

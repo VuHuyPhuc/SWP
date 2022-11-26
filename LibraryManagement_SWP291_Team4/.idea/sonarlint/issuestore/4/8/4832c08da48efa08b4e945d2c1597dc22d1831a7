@@ -1,0 +1,25 @@
+
+~
+java:S1192‘"gDefine a constant instead of duplicating this literal "<a href=\"book\">Back to book list</a>" 5 times.(ÚÀùí
+]
+java:S1192"FDefine a constant instead of duplicating this literal "</h1>" 5 times.(Èõ
+w
+java:S1192“"[Define a constant instead of duplicating this literal "<h1 style=\"color: red;\">" 3 times.(ÒŞ˜ôùÿÿÿÿ
+]
+java:S11922"GDefine a constant instead of duplicating this literal "/login" 3 times.(¼÷¯‘
+c
+java:S1192G"HDefine a constant instead of duplicating this literal "pending" 3 times.(®ÀÜ›ûÿÿÿÿ
+v
+java:S11926"aDefine a constant instead of duplicating this literal "listBookIdForAppointmentListCart" 8 times.(“„º1
+\
+java:S1192k"GDefine a constant instead of duplicating this literal "bookId" 3 times.(‚Ûë,
+R
+java:S18547"<Remove this useless assignment to local variable "listBook".(¨íæ›
+C
+java:S14817"-Remove this unused "listBook" local variable.(¨íæ›
+K
+java:S1172¦"/Remove this unused method parameter "response".(‘»ëêùÿÿÿÿ
+K
+java:S1172ô"/Remove this unused method parameter "response".(í³ùÿÿÿÿ
+@
+java:S1940ù")Use the opposite operator ("!=") instead.(µÆä–

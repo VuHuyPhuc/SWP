@@ -1,0 +1,10 @@
+
+b
+java:S3973J"GUse indentation to denote the code conditionally executed by this "if".(ÍÈŸùûÿÿÿÿ
+i
+java:S2095Y"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(€´‘Æÿÿÿÿÿ
+\
+java:S2130F"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(ºÔü¯ÿÿÿÿÿ
+e
+java:S2674X"JCheck the return value of the "read" call to see how many bytes were read.(Ö±÷ÿøÿÿÿÿ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
